@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'jillus';
+    src: url('/assets/jillus.ttf') format('truetype');
+}
+
+h2 {
+    font-family: 'jillus', Verdana, sans-serif;
+}
